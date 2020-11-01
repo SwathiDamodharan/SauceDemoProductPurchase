@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testCases.Amazon_ProductSelection"/>
+      <class name="testCases.SauceDemo_ProductCheckout"/>
+      <class name="testCases.SauceDemoLockedUserAssertion"/>
+      <class name="testCases.UlitmateQAFormSubmission"/>
+      <class name="testCases.UltimateQACaptchaFormSubmission"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
